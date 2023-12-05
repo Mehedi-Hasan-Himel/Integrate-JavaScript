@@ -1,10 +1,20 @@
-li,h1,p{
-   color: tomato;
+li,
+h1,
+p {
+  color: tomato;
 }
 
-#fruits-title{
-   color:black;
+#fruits-title {
+  color: black;
 }
-.important-places{
-   color: blueviolet;
+.important-places {
+  color: blueviolet;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.large-text {
+  font-size: 2em;
 }
